@@ -1,1 +1,1 @@
-xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/dnf2022y/music_tag_web:latest
+jlesage/firefox:latest registry.cn-hangzhou.aliyuncs.com/dnf2022y/jlesage/firefox:latest
