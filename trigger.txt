@@ -1,1 +1,1 @@
-jlesage/firefox:latest registry.cn-hangzhou.aliyuncs.com/dnf2022y/firefox:latest
+jellyfin/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/dnf2022y/jellyfin:latest
